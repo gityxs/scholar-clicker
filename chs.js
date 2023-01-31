@@ -205,7 +205,7 @@ var cnItems = {
     "Insight will be rewarded": "有见识就会有回报",
     "Started College": "开始上大学",
     "Survive another year": "再活一年",
-    "": "",
+    "Computational Number Theory": "计算数论",
     "": "",
     "": "",
     "": "",
