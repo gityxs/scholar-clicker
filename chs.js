@@ -48,7 +48,7 @@ var cnItems = {
     "AI Node": "人工智能节点",
     "Algebra": "代数",
     "Algebra 2": "代数 2",
-    "Algorithms": "算法",
+    "Algorithms": "Algorithms",
     "Arithmetic": "算术",
     "Art": "艺术",
     "Assembly": "Assembly",
