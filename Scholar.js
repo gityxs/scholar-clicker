@@ -1960,7 +1960,7 @@ function initialize_cs_project(players_project){
 }
 
 function start_cs_project(project_type, button){
-    var project_name = prompt("请输入项目名","");
+    var project_name = prompt("请输入项目名(别用中文，会炸存档)","");
     if(project_name == null || project_name == ""){
         undo_purchase(button);
         return false;
@@ -2072,7 +2072,7 @@ function make_permanent_bonus(bonus_type){
 
 ai_buddy_calculations_button.onclick = function() {
     if(!do_button_clicked(this)){ return; }
-    var ai_name = prompt("请输入项目名","");
+    var ai_name = prompt("请输入项目名(别用中文，会炸存档)","");
     if(ai_name == null || ai_name == ""){
         undo_purchase(ai_buddy_calculations_button);
         update_screen();
@@ -2085,7 +2085,7 @@ ai_buddy_calculations_button.onclick = function() {
 
 ai_buddy_code_button.onclick = function() {
     if(!do_button_clicked(this)){ return; }
-    var ai_name = prompt("请输入项目名","");
+    var ai_name = prompt("请输入项目名(别用中文，会炸存档)","");
     if(ai_name == null || ai_name == ""){
         undo_purchase(ai_buddy_code_button);
         update_screen();

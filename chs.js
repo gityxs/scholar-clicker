@@ -195,7 +195,7 @@ var cnItems = {
     "Click me!": "点我！",
     "Active": "已激活",
     "Fully debugged for now": "目前已完全调试",
-    "": "",
+    "With dragons!": "带着龙！",
     "": "",
     "": "",
     "": "",
