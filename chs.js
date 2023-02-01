@@ -285,7 +285,7 @@ var cnItems = {
     "HollowKnight": "空洞骑士",
     "Hyperbolic Number Theory": "双曲数论",
     "TheLegendofZelda": "塞尔达传说",
-    "": "",
+    "Differential Group Theory": "微分群论",
     "": "",
     "": "",
     "": "",
